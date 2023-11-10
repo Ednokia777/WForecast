@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WForecast</string>
+    <string name="temperature_string">0</string>
+    <string name="city_name">Пожалуйста, подождите</string>
+</resources>
